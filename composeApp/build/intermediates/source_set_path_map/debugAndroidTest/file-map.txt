@@ -1,0 +1,6 @@
+org.example.project.test.composeApp-annotation-experimental-1.4.0-0 C:\Users\Volod\.gradle\caches\transforms-4\47d3cdc4fee0ab174e8ad4dc0c4360fe\transformed\annotation-experimental-1.4.0\res
+org.example.project.test.composeApp-core-1.5.0-1 C:\Users\Volod\.gradle\caches\transforms-4\9b1942f8641499ef87781fbc6fc50127\transformed\core-1.5.0\res
+org.example.project.test.composeApp-androidTest-2 E:\KotlinProj\KP6\composeApp\build\generated\res\resValues\androidTest\debug
+org.example.project.test.composeApp-mergeDebugAndroidTestResources-3 E:\KotlinProj\KP6\composeApp\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+org.example.project.test.composeApp-mergeDebugAndroidTestResources-4 E:\KotlinProj\KP6\composeApp\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+org.example.project.test.composeApp-merged_res-5 E:\KotlinProj\KP6\composeApp\build\intermediates\merged_res\debugAndroidTest
